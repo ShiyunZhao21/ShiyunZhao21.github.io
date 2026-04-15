@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-#Welcome!
+# Welcome!
 
 I'm a second-year undergraduate student from the **School of Mathematical Sciences**, **Beijing Normal University (BNU)**. 
 
-I am currently a research intern at the [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/), working on EEG signal processing and **brain-inspired cognitive AI** under the supervision of** Prof. Jiangtao Gong.**
+I am currently a research intern at the [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/), working on EEG signal processing and **brain-inspired cognitive AI** under the supervision of **Prof. Jiangtao Gong.**
 
 From 2025.3 to 2025.6, I conducted research at the [State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University](https://sklcnl.bnu.edu.cn/), focusing on multimodal machine learning for Alzheimer’s disease progression prediction. This work led to a co-authored publication in ***NeuroImage***.
 
@@ -31,7 +31,7 @@ I will join the [Hong Kong University of Science and Technology (Guangzhou)](htt
 
 My research interest includes deep learning, brain-inspired AI , AI4S and Cognitive Intelligence.
 
- If you are interested in my work, please feel free to contact me.
+ If you are interested in my work, feel free to contact me!
 
 # 🔥 News
 
@@ -54,7 +54,7 @@ Yichen Wang, …, **Shiyun Zhao**
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeuroImage 2025</div><img src='images/igem.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGEM 2025</div><img src='images/igem.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [IGEM2025 BNU-China Model](https://2025.igem.wiki/bnu-china/model)
