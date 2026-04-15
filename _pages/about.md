@@ -41,7 +41,7 @@ My research interest includes deep learning, brain-inspired AI , AI4S and Cognit
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeuroImage 2025</div><img src='images/alz.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeuroImage 2025</div><img src='images/alzm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi- modal integration of plasma biomarkers, MRI, and genetic risk to predict cerebral amyloid burden in Alzheimer’s disease](https://www.sciencedirect.com/science/article/pii/S1053811925005531)
