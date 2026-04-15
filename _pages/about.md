@@ -27,7 +27,7 @@ From 2025.3 to 2025.6, I conducted research at the [State Key Laboratory of Cogn
 
 I was also a member of the [iGEM Competition](https://igem.org/) 2025 modeling team, where our project received a **Gold Medal** and **the Best Biomanufacturing Track award**.
 
-In 2026.7-026.8, I will join the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) as a summer research student.
+In 2026.7-2026.8, I will join the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) as a summer research student.
 
 My research interest includes deep learning, brain-inspired AI , AI4S and Cognitive Intelligence.
 
