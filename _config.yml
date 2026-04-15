@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shiyun Zhao"
-description              : "an AI beliver"
+description              : "AI beliver"
 repository               : "ShiyunZhao21/ShiyunZhao21.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Shiyun Zhao"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/myself.png"
   bio              : "Beijing Normal University"
   location         : "Beijing, China"
   employer         :
