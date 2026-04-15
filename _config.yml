@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Welcome!"
-description              : "I'm a second-year undergraduate student from the **School of Mathematical Sciences**, **Beijing Normal University (BNU)**. My research interests include deep learning, AI4S, AI4Brain, human-computer interaction (HCI), and intelligent agents."
+title                    : "Shiyun Zhao"
+description              : "an AI beliver"
 repository               : "ShiyunZhao21/ShiyunZhao21.github.io"
 google_scholar_stats_use_cdn : true
 
