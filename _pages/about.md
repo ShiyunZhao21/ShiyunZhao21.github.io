@@ -17,10 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm a second-year undergraduate student from the **School of Mathematical Sciences**, **Beijing Normal University (BNU)**. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently a research intern at the [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/), working on EEG signal processing and brain-inspired cognitive AI under the supervision of Prof. Jiangtao Gong.
 
+From 2025.3 to 2025.6, I conducted research at the [State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University](https://sklcnl.bnu.edu.cn/), focusing on multimodal machine learning for Alzheimer’s disease progression prediction. This work led to a co-authored publication in *NeuroImage*.
+
+I was also a member of the [iGEM Competition](https://igem.org/) 2025 modeling team, where our project received a Gold Medal and the Best Biomanufacturing Track award.
+
+I will join the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) as a summer research student.
+
+My research interest includes deep learning, brain-inspired AI , AI4S and Cognitive Intelligence.
+
+ If you are interested in my work, please feel free to contact me.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
