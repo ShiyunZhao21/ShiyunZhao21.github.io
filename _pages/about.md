@@ -27,7 +27,7 @@ From 2025.3 to 2025.6, I conducted research at the [State Key Laboratory of Cogn
 
 I was also a member of the [iGEM Competition](https://igem.org/) 2025 modeling team, where our project received a **Gold Medal** and **the Best Biomanufacturing Track award**.
 
-I will join the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) as a summer research student.
+In 2026.7-026.8, I will join the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) as a summer research student.
 
 My research interest includes deep learning, brain-inspired AI , AI4S and Cognitive Intelligence.
 
@@ -41,7 +41,7 @@ My research interest includes deep learning, brain-inspired AI , AI4S and Cognit
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeuroImage 2025</div><img src='images/alzm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeuroImage 2025</div><img src='images/almz.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi- modal integration of plasma biomarkers, MRI, and genetic risk to predict cerebral amyloid burden in Alzheimer’s disease](https://www.sciencedirect.com/science/article/pii/S1053811925005531)
