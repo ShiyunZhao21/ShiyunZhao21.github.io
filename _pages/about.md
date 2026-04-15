@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+#Welcome!
+
 I'm a second-year undergraduate student from the **School of Mathematical Sciences**, **Beijing Normal University (BNU)**. 
 
-I am currently a research intern at the [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/), working on EEG signal processing and brain-inspired cognitive AI under the supervision of Prof. Jiangtao Gong.
+I am currently a research intern at the [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/), working on EEG signal processing and **brain-inspired cognitive AI** under the supervision of** Prof. Jiangtao Gong.**
 
-From 2025.3 to 2025.6, I conducted research at the [State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University](https://sklcnl.bnu.edu.cn/), focusing on multimodal machine learning for Alzheimer’s disease progression prediction. This work led to a co-authored publication in *NeuroImage*.
+From 2025.3 to 2025.6, I conducted research at the [State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University](https://sklcnl.bnu.edu.cn/), focusing on multimodal machine learning for Alzheimer’s disease progression prediction. This work led to a co-authored publication in ***NeuroImage***.
 
-I was also a member of the [iGEM Competition](https://igem.org/) 2025 modeling team, where our project received a Gold Medal and the Best Biomanufacturing Track award.
+I was also a member of the [iGEM Competition](https://igem.org/) 2025 modeling team, where our project received a **Gold Medal** and **the Best Biomanufacturing Track award**.
 
 I will join the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) as a summer research student.
 
@@ -32,36 +34,49 @@ My research interest includes deep learning, brain-inspired AI , AI4S and Cognit
  If you are interested in my work, please feel free to contact me.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2025.12*: &nbsp;🎉🎉 I am 18 year old now!
+- *2025.11*: &nbsp;🎉🎉 **Gold Medal** and **Best Biomanufacturing Track Award** were won by BNU-China at iGEM 2025 in Paris, France, marking the highest achievement in the team’s history.
+- *2025.5*: &nbsp;🎉🎉 New Paper on Multi-Modal Integration of Plasma Biomarkers, MRI, and Genetic Risk for Predicting Cerebral Amyloid Burden in Alzheimer’s Disease Accepted by *NeuroImage*.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeuroImage 2025</div><img src='images/alz.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Multi- modal integration of plasma biomarkers, MRI, and genetic risk to predict cerebral amyloid burden in Alzheimer’s disease](https://www.sciencedirect.com/science/article/pii/S1053811925005531)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Yichen Wang, …, **Shiyun Zhao**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-  NeuroImage, Vol. 322, 2025, 121550
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeuroImage 2025</div><img src='images/igem.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[IGEM2025 BNU-China Model](https://2025.igem.wiki/bnu-china/model)
+
+**Shiyun Zhao**, XiaohuiMa, JinyueZhang
+
+**Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-  Gold Medal and Best Biomanufacturing Track Award, the highest achievement in the team’s history , as the only freshman
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2025.10* Jing Shi Second-Class Scholarship, BNU (Top10% - 30%)                                                       
+- *2025.9* First Prize(Beijing), China Undergraduate Mathematical Contest in Modeling                                   
+- *2025.5* Second Prize,  Beijing Collegiate Mathematical Modeling & Computer Application Competition               
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.09 - now*, B.S. in Mathematics and Applied Mathematics,School of Mathematical Sciences, Beijing Normal University (BNU), Beijing, China  		 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- *2026.1 - now*,[Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/), Beijing, China.
+- *2025.03 - 2025.6*,  [State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University](https://sklcnl.bnu.edu.cn/), Beijing, China.
