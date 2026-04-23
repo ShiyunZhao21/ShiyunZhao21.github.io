@@ -25,9 +25,9 @@ I am currently a research intern at the [Institute for AI Industry Research (AIR
 
 From 2025.3 to 2025.6, I conducted research at the [State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University](https://sklcnl.bnu.edu.cn/), focusing on multimodal machine learning for Alzheimer’s disease progression prediction. This work led to a co-authored publication in ***NeuroImage***.
 
-I was also a member of the [iGEM Competition](https://igem.org/) 2025 modeling team, where our project received a **Gold Medal** and **the Best Biomanufacturing Track award**.
+I was also a member of the [iGEM Competition](https://igem.org/) 2025 modeling team(as the only freshman), where our project received a **Gold Medal** and **the Best Biomanufacturing Track award**.
 
-In 2026.7-2026.8, I will join the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) as a summer research student.
+In 2026.7-2026.8, I will join the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) as a summer research student,conducting research on **neural decoding and biological computing.**
 
 My research interest includes deep learning, brain-inspired AI , AI4S and Cognitive Intelligence.
 
