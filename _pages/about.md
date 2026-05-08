@@ -21,13 +21,15 @@ redirect_from:
 
 I'm a second-year undergraduate student from the **School of Mathematical Sciences**, **Beijing Normal University (BNU)**. 
 
-I am currently a research intern at the [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/), working on EEG signal processing and **brain-inspired cognitive AI** under the supervision of **Prof. Jiangtao Gong.**
+I am currently a research intern at the [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/), working on **Brain-Inspired Cognitive Companion Agents**, under the supervision of [Prof. Jiangtao Gong](https://air.tsinghua.edu.cn/info/1046/1635.htm.).
+
+This project focuses on building brain-inspired cognitive companion agents by modeling human cognitive patterns in complex cognitive activities using neural data.
 
 From 2025.3 to 2025.6, I conducted research at the [State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University](https://sklcnl.bnu.edu.cn/), focusing on multimodal machine learning for Alzheimer’s disease progression prediction. This work led to a co-authored publication in ***NeuroImage***.
 
-I was also a member of the [iGEM Competition](https://igem.org/) 2025 modeling team(as the only freshman), where our project received a **Gold Medal** and **the Best Biomanufacturing Track award**.
-
-In 2026.7-2026.8, I will join the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) as a summer research student,conducting research on **neural decoding and biological computing.**
+From 2025.3 to 2025.10, I participated in the 2025  [iGEM Competition](https://igem.org/) as the only freshman on the modeling team. Our project was honored with a **Gold Medal** and **the Best Biomanufacturing Track Award**.
+ 
+From 2026.7 to 2026.8, I will join the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) as a summer research student,conducting research on **neural decoding and biological computing.**
 
 My research interest includes deep learning, brain-inspired AI , AI4S and Cognitive Intelligence.
 
