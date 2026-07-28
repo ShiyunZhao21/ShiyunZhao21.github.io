@@ -21,17 +21,17 @@ redirect_from:
 
 I'm a second-year undergraduate student from the **School of Mathematical Sciences**, **Beijing Normal University (BNU)**. 
 
-I am currently a research intern at the [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/), working on **Brain-Inspired Cognitive Companion Agents**, under the supervision of [Prof. Jiangtao Gong](https://air.tsinghua.edu.cn/info/1046/1635.htm.).
+I aam currently a research assistant at the [HKUSTGZ AI Trust](https://ait.hkust-gz.edu.cn/zh/),focusing on **Multimodal Emotion Recognition** and **biological computing**, under the supervision of [Prof.Yutao Yue](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue).
 
-This project focuses on building brain-inspired cognitive companion agents by modeling human cognitive patterns in complex cognitive activities using neural data.
+I was a research intern at the [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/), working on **Brain-Inspired Cognitive Companion Agents**, under the supervision of [Prof. Jiangtao Gong](https://air.tsinghua.edu.cn/info/1046/1635.htm.).
 
-From 2025.3 to 2025.6, I conducted research at the [State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University](https://sklcnl.bnu.edu.cn/), focusing on multimodal machine learning for Alzheimer’s disease progression prediction. This work led to a co-authored publication in ***NeuroImage***.
+I conducted research at the [State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University](https://sklcnl.bnu.edu.cn/), focusing on multimodal machine learning for Alzheimer’s disease progression prediction. This work led to a co-authored publication in ***NeuroImage***, from 2025.3 to 2025.6.
 
-From 2025.3 to 2025.10, I participated in the 2025  [iGEM Competition](https://igem.org/) as the only freshman on the modeling team. Our project was honored with a **Gold Medal** and **the Best Biomanufacturing Track Award**.
- 
-From 2026.7 to 2026.8, I will join the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) as a summer research student,conducting research on **neural decoding and biological computing.**
+I participated in the 2025  [iGEM Competition](https://igem.org/) as the only freshman on the modeling team. Our project was honored with a **Gold Medal** and **the Best Biomanufacturing Track Award** ,from 2025.3 to 2025.10.
 
-My research interest includes deep learning, brain-inspired AI , AI4S and Cognitive Intelligence.
+For entrepreneurship, I participated in [AdventureX2026](https://adventure-x.org/en)(China’s largest hackathon). As the full-stack engineer, I built ME.xyz, a life simulator for GenZ. We will continue iterating on the product until its official launch.
+
+My research interest includes deep learning, brain-inspired AI , AI4S and Cognitive Intelligence. I am also deeply interested in entrepreneurship.
 
  If you are interested in my work, feel free to contact me!
 
@@ -41,7 +41,7 @@ My research interest includes deep learning, brain-inspired AI , AI4S and Cognit
 - *2025.11*: &nbsp;🎉🎉 **Gold Medal** and **Best Biomanufacturing Track Award** were won by BNU-China at iGEM 2025 in Paris, France, marking the highest achievement in the team’s history.
 - *2025.5*: &nbsp;🎉🎉 New Paper on Multi-Modal Integration of Plasma Biomarkers, MRI, and Genetic Risk for Predicting Cerebral Amyloid Burden in Alzheimer’s Disease Accepted by *NeuroImage*.
 
-# 📝 Publications 
+# 📝 Publications and works
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeuroImage 2025</div><img src='images/almz.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,8 +50,7 @@ My research interest includes deep learning, brain-inspired AI , AI4S and Cognit
 
 Yichen Wang, …, **Shiyun Zhao**
 
-**Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  NeuroImage, Vol. 322, 2025, 121550
+**NeuroImage, Vol. 322, 2025, 121550t** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
@@ -63,10 +62,21 @@ Yichen Wang, …, **Shiyun Zhao**
 
 **Shiyun Zhao**, XiaohuiMa, JinyueZhang
 
-**Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  Gold Medal and Best Biomanufacturing Track Award, the highest achievement in the team’s history , as the only freshman
+**🏅gold medal ⚙️Best Biomanufacturing Track Award** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- the highest achievement in the team’s history , as the only freshman.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"AdventureX2026</div><img src='images/almz.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ ME.xyz, a life simulator for GenZ](https://www.sciencedirect.com/science/article/pii/S1053811925005531)
+**Co-founder** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
 
@@ -80,5 +90,6 @@ Yichen Wang, …, **Shiyun Zhao**
 
 # 💻 Internships
 
-- *2026.1 - now*,[Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/), Beijing, China.
-- *2025.03 - 2025.6*,  [State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University](https://sklcnl.bnu.edu.cn/), Beijing, China.
+- *2026.7 - now*,[HKUSTGZ AI Trust](https://ait.hkust-gz.edu.cn/zh/), Guangzhou, China.
+- *2026.1 - 2026.7*,[Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/), Beijing, China.
+- *2025.3 - 2025.6*,  [State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University](https://sklcnl.bnu.edu.cn/), Beijing, China.
