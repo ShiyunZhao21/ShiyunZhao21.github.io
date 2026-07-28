@@ -39,7 +39,7 @@ My research interest includes deep learning, brain-inspired AI , AI4S and Cognit
 
 - *2025.12*: &nbsp;🎉🎉 I am 18 year old now!
 - *2025.11*: &nbsp;🎉🎉 **Gold Medal** and **Best Biomanufacturing Track Award** were won by BNU-China at iGEM 2025 in Paris, France, marking the highest achievement in the team’s history.
-- *2025.5*: &nbsp;🎉🎉 New Paper on Multi-Modal Integration of Plasma Biomarkers, MRI, and Genetic Risk for Predicting Cerebral Amyloid Burden in Alzheimer’s Disease Accepted by *NeuroImage*.
+- *2025.5*: &nbsp;🎉🎉 New Paper on Multi-Modal Integration of Plasma Biomarkers, MRI, and Genetic Risk for Predicting Cerebral Amyloid Burden in Alzheimer’s Disease Accepted by **NeuroImage**.
 
 # 📝 Publications and works
 
@@ -62,7 +62,7 @@ Yichen Wang, …, **Shiyun Zhao**
 
 **Shiyun Zhao**, XiaohuiMa, JinyueZhang
 
-**🏅gold medal ⚙️Best Biomanufacturing Track Award** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**🏅Gold Medal ⚙️Best Biomanufacturing Track Award** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - the highest achievement in the team’s history , as the only freshman.
 </div>
 </div>
@@ -71,8 +71,10 @@ Yichen Wang, …, **Shiyun Zhao**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"AdventureX2026</div><img src='images/ME.xyz.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ ME.xyz, a life simulator for GenZ](https://www.sciencedirect.com/science/article/pii/S1053811925005531)
-**Co-founder** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[ME.xyz, a life simulator for GenZ](https://www.sciencedirect.com/science/article/pii/S1053811925005531)
+
+**Co-founder** 
+
 </div>
 </div>
 
