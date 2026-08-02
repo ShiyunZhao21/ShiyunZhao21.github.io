@@ -71,7 +71,7 @@ Yichen Wang, …, **Shiyun Zhao**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AdventureX2026</div><img src='images/ME.xyz.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ME.xyz, a life simulator for GenZ](https://www.sciencedirect.com/science/article/pii/S1053811925005531)
+[ME.xyz, a life simulator for GenZ](https://mexyz2026.com/)
 
 **Co-founder** 
 
